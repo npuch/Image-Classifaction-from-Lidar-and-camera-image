@@ -2,4 +2,4 @@
 
 Work in progress.
 
-Image Classifcation for self driving situations.  Using Pandset Dataset from Kaggle on Google Colab hosted on Google drive.  The data set is 33GB of lidar sensor data, camera images, gps coordinates, and coorisponding timestampes to as inputs. As outputs the model will classsfy the object and give 3d coordinates to a box arond the object in 3-D space relative to the car.  Complex inputs in a simple CNN model with goal being to create a model to achieve high acuracy and low latency that can run on minimal hardware on the car on board in real time.
+Image Classifcation for self driving situations.  Using Pandset Dataset from Kaggle on Google Colab hosted on Google drive.  The data set is 33GB of lidar sensor data, camera images, gps coordinates, and coorisponding timestampes to as inputs. As outputs the model will classsfy the object and give 3d coordinates to a box arond the object in 3-D space relative to the car.  Complex inputs in a simple CNN model with goal being to create a model to achieve high acuracy and low latency that can run on minimal hardware on the car or truck on board in real time.
